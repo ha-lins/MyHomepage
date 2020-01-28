@@ -1,41 +1,37 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Shuai Lin
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Shuai Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Sun Yat-sen University
+  url: "http://www.sysu.edu.cn/2012/cn/zdgk/zdgk01/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural language processing/.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Conversational AI
+- Controllable Text Generation
+
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Pattern Recognition
+    institution: Sun Yat-sen University
+    year: 2019 - Now
+  - course: BSc in Communication Engineering
+    institution: Xidian University
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "shuailin97@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I'm currently a graduate student at Human Cyber Physical Intelligence Integration Lab"http://www.sysu-hcp.net/home/" in Sun Yat-sen University, advised by Prof Xiaodan Liang"https://lemondan.github.io/". Before that, I received my bachelor's degreee in the School of Telecommunications Engineering, Xidian University. My research interests include Natural Language Processing(NLP). 
