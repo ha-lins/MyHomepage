@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm currently a graduate student at Human Cyber Physical Intelligence Integration Lab"http://www.sysu-hcp.net/home/" in Sun Yat-sen University, advised by Prof Xiaodan Liang"https://lemondan.github.io/". Before that, I received my bachelor's degreee in the School of Telecommunications Engineering, Xidian University. My research interests include Natural Language Processing(NLP). 
+Hi! I'm currently a graduate student at Human Cyber Physical Intelligence Integration Lab"http://www.sysu-hcp.net/home/" in Sun Yat-sen University, advised by Prof Xiaodan Liang"https://lemondan.github.io/". Before that, I received my bachelor's degreee in the School of Telecommunications Engineering, Xidian University. My research interests include Natural Language Processing(NLP) and conversational AI. 
